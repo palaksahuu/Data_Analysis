@@ -13,10 +13,8 @@ strategies.
 
 ## 2. How to run Python code 
 
-## create a VENV enviornment 
+     create a VENV enviornment 
+     Install Requirements
 
-
-## Install Requirements
-
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
