@@ -14,6 +14,7 @@ strategies.
 ## 2. How to run Python code 
 
 create a VENV enviornment 
+
 Install Requirements
 
     pip install -r requirements.txt
